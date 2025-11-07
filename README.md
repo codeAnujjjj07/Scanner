@@ -15,7 +15,10 @@ bash
 git clone 
 
 https://github.com/codeAnujjjj07/Scanner
+
 cd desktop
+
 cd scanner
+
 python3 scanner.py
 
