@@ -1,0 +1,20 @@
+requests
+socket
+ipaddress
+
+# For scanning and networking
+scapy
+python-nmap
+
+# For data handling and saving results
+pandas
+csv
+
+# For colored console output (optional)
+colorama
+
+# For progress bars (optional but nice for UX)
+tqdm
+
+# For advanced command-line interfaces (optional)
+argparse
