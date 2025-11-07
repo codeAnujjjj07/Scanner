@@ -10,4 +10,10 @@ A simple Python-based tool to find devices connected to a local network and dete
 - Exports results to CSV
 
 ## Installation
+bash
+git clone 
+https://github.com/codeAnujjjj07/Scanner
+cd desktop
+cd scanner
+python3 scanner.py
 
