@@ -11,7 +11,9 @@ A simple Python-based tool to find devices connected to a local network and dete
 
 ## Installation
 bash
+
 git clone 
+
 https://github.com/codeAnujjjj07/Scanner
 cd desktop
 cd scanner
